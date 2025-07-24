@@ -93,5 +93,24 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 MD5sum: 09a29915beabd5f3138d5a23a88ca61c
 
 
-
+Filename: ./debs/KillAllApp.deb
+Size: 62670
+Package: mt-jailbreak.killallapps
+Version: 3.3.0
+Section: Tweaks
+Maintainer: Minh Tuấn Repo
+Description: Vuốt xuống trong bộ chuyển đổi ứng dụng để Đóng tất cả các ứng dụng nền
+ Tính năng:
+ - Hiệu ứng UI tùy chỉnh / Phản hồi Haptic khi đóng tất cả các ứng dụng
+ - Tùy chọn để thêm nút xóa và kiểu của nó
+ - Tùy chọn để đóng tất cả các ứng dụng nhưng giữ cho ứng dụng hiện tại còn sống
+ - Tùy chọn để tắt tất cả các ứng dụng và khởi động lại ứng dụng hiện tại
+ - Kiểu chuyển đổi iPad
+ - Hỗ trợ iOS 12 - 14.5
+Depends: mobilesubstrate, preferenceloader, applist, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
+Architecture: iphoneos-arm
+Name: Kill All Apps VH
+Author: Hao Nguyen
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+MD5sum: 57b7384425f1aad57ab43d1b2ebec97d
 
