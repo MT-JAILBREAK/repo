@@ -1,0 +1,97 @@
+
+Filename: ./debs/HomePlus.deb
+Size: 1310424
+Package: mt-jailbreak.homeplus
+Version: 1.1
+Section: Tweaks
+Maintainer: Minh Tuấn Repo
+Homepage: https://repo.krit.me/pack/homeplus
+Description: Sắp xếp bố cục trên màn hình chính
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Name: HomePlus VH
+Author: Kritanta
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+MD5sum: fb25f073d9cfb379bf40d39b177c9c24
+
+
+Filename: ./debs/ChargeAnimations.deb
+Size: 24851192
+Package: mt-jailbreak.ChargeAnimations
+Version: 3.2
+Section: Tweaks
+Maintainer: Minh Tuấn Repo
+Description: Hoạt hình khi bạn cắm sạc vào thiết bị của bạn!
+Depends: mt-jailbreak.cracktool4 | com.julioverne.cracktool4, firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
+Architecture: iphoneos-arm
+Name: ChargeAnimations VH
+Author: c1d3r
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+MD5sum: 2d611e18d1f72db98bcca2883924bc5a
+
+
+Filename: ./debs/Cracktool4.deb
+Size: 2957364
+Package: mt-jailbreak.cracktool4
+Version: 4.1
+Section: Ultilities
+Maintainer: Minh Tuấn Repo
+Homepage: https://julio.hackyouriphone.org/description.html?id=com.julioverne.cracktool4
+Description: Trình kích hoạt bản quyền!
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Conflicts: com.julioverne.cracktool4
+Architecture: iphoneos-arm
+Name: CrackTool4 (iOS 9 - 14)
+Author: julioverne
+Icon: file:///Applications/Cydia.app/Sections/tienich.png
+MD5sum: 439dca67cafed3329e0617d437a01fc1
+
+
+
+Filename: ./debs/Centaur.deb
+Size: 449422
+Package: mt-jailbreak.centaur
+Version: 2.0
+Section: Tweaks
+Maintainer: Minh Tuấn Repo
+Description: Trung tâm thông báo hiện đại hơn.
+Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Name: Centaur VH
+Author: Muirey03
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+MD5sum: 5c594a028879ccd6983fed694648fb8b
+
+
+Filename: ./debs/KeyboardPlus.deb
+Size: 429712
+Package: mt-jailbreak.keyboardplus
+Version: 2.1
+Section: Tweaks
+Maintainer: Minh Tuấn Repo
+Description: Bổ sung các tính năng cho bàn phím của bạn!
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Architecture: iphoneos-arm
+Name: KeyboardPlus VH
+Author: Ryan Nair
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+MD5sum: 23ce470ffb53266eaab24185f7b9b9e5
+
+
+Filename: ./debs/PullOverPro.deb
+Size: 1521602
+Package: mt-jailbreak.PullOverPro
+Version: 2.2.1
+Section: Tweaks
+Maintainer: Minh Tuấn Repo
+Description: Cửa sổ đa nhiệm hoàn hảo cho thiết bị của bạn!
+Depends: mt-jailbreak.cracktool4 | com.julioverne.cracktool4, firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Architecture: iphoneos-arm
+Name: PullOver Pro VH
+Author: c1d3r
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+MD5sum: 09a29915beabd5f3138d5a23a88ca61c
+
+
+
+
