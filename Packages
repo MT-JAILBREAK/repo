@@ -99,8 +99,7 @@ Package: mt-jailbreak.killallapps
 Version: 3.3.0
 Section: Tweaks
 Maintainer: Minh Tuấn Repo
-Description:
-Vuốt xuống trong bộ chuyển đổi ứng dụng để Đóng tất cả các ứng dụng nền
+Description: Vuốt xuống trong bộ chuyển đổi ứng dụng để Đóng tất cả các ứng dụng nền
  Tính năng:
  - Hiệu ứng UI tùy chỉnh / Phản hồi Haptic khi đóng tất cả các ứng dụng
  - Tùy chọn để thêm nút xóa và kiểu của nó
