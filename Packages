@@ -93,8 +93,8 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 MD5sum: 09a29915beabd5f3138d5a23a88ca61c
 
 
-Filename: ./debs/KillAllApp.deb
-Size: 62670
+Filename: ./debs/KillAllApps.deb
+Size: 62998
 Package: mt-jailbreak.killallapps
 Version: 3.3.0
 Section: Tweaks
@@ -112,5 +112,5 @@ Architecture: iphoneos-arm
 Name: Kill All Apps VH
 Author: Hao Nguyen
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: 57b7384425f1aad57ab43d1b2ebec97d
+MD5sum: fb0f16fdc4a7c033b960eab6504e21bf
 
