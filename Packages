@@ -3,7 +3,7 @@ Filename: ./debs/HomePlus.deb
 Size: 1310424
 Package: mt-jailbreak.homeplus
 Version: 1.1
-Section: Tweaks
+Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Homepage: https://repo.krit.me/pack/homeplus
 Description: Sắp xếp bố cục trên màn hình chính
@@ -19,7 +19,7 @@ Filename: ./debs/ChargeAnimations.deb
 Size: 24851192
 Package: mt-jailbreak.ChargeAnimations
 Version: 3.2
-Section: Tweaks
+Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Hoạt hình khi bạn cắm sạc vào thiết bị của bạn!
 Depends: mt-jailbreak.cracktool4 | com.julioverne.cracktool4, firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
@@ -52,7 +52,7 @@ Filename: ./debs/Centaur.deb
 Size: 449422
 Package: mt-jailbreak.centaur
 Version: 2.0
-Section: Tweaks
+Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Trung tâm thông báo hiện đại hơn.
 Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.11)
@@ -67,7 +67,7 @@ Filename: ./debs/KeyboardPlus.deb
 Size: 429712
 Package: mt-jailbreak.keyboardplus
 Version: 2.1
-Section: Tweaks
+Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Bổ sung các tính năng cho bàn phím của bạn!
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
@@ -82,7 +82,7 @@ Filename: ./debs/PullOverPro.deb
 Size: 1521602
 Package: mt-jailbreak.PullOverPro
 Version: 2.2.1
-Section: Tweaks
+Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Cửa sổ đa nhiệm hoàn hảo cho thiết bị của bạn!
 Depends: mt-jailbreak.cracktool4 | com.julioverne.cracktool4, firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
@@ -97,7 +97,7 @@ Filename: ./debs/KillAllApps.deb
 Size: 62998
 Package: mt-jailbreak.killallapps
 Version: 3.3.0
-Section: Tweaks
+Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Vuốt xuống trong bộ chuyển đổi ứng dụng để Đóng tất cả các ứng dụng nền
  Tính năng:
@@ -118,7 +118,7 @@ Filename: ./debs/Axon.deb
 Size: 200208
 Package: mt-jailbreak.axon
 Version: 1.5
-Section: Tweaks VH
+Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Nhóm và xem các thông báo chưa đọc trên màn hình khóa
 Depends: mobilesubstrate, firmware (>= 11.0)
