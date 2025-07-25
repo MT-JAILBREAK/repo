@@ -114,3 +114,20 @@ Author: Hao Nguyen
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 MD5sum: fb0f16fdc4a7c033b960eab6504e21bf
 
+
+Filename: ./debs/Axon.deb
+Size: 200208
+Package: mt-jailbreak.axon
+Version: 1.5
+Section: Tweaks VH
+Maintainer: Minh Tuấn Repo
+Description: Nhóm và xem các thông báo chưa đọc trên màn hình khóa
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Architecture: iphoneos-arm
+Name: Axon VH
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+MD5sum: 1cab2e601805385e9784053e3c489498
+
+
