@@ -114,7 +114,6 @@ Author: Hao Nguyen
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 MD5sum: fb0f16fdc4a7c033b960eab6504e21bf
 
-
 Filename: ./debs/Axon.deb
 Size: 200208
 Package: mt-jailbreak.axon
@@ -129,5 +128,22 @@ Name: Axon VH
 Author: Nepeta
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 MD5sum: 1cab2e601805385e9784053e3c489498
+
+
+Filename: ./debs/Badgomizer.deb
+Size: 421140
+Package: mt-jailbreak.badgomizer
+Version: 1.7
+Section: Tinh chỉnh Việt hóa
+Maintainer: Minh Tuấn Repo
+Description: Tùy chỉnh đầy đủ huy hiệu ứng dụng, nút xoá và dấu chấm mới.
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
+Architecture: iphoneos-arm
+Name: Badgomizer VH
+Author: merdok <merdok87@o2.pl>Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/badgomizerprefs.bundle/badgomizer@2x.png
+MD5sum: 94d5378f4ee3f6375549e3e93910d0a2
+
+
 
 
