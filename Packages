@@ -32,7 +32,7 @@ MD5sum: 5c760ed7eba6bdda2c2b312914f43418
 Filename: ./debs/CrackTool4.deb
 Size: 2957300
 Package: mt-jailbreak.cracktool4
-Version: 4.0~beta10b
+Version: 5.0~beta10b
 Section: Tweaks
 Maintainer: Minh Tuấn Repo
 Description: Trình kích hoạt bản quyền!
@@ -49,7 +49,7 @@ MD5sum: 5efa49b42e307b8e31944570a082a249
 Filename: ./debs/Centaur.deb
 Size: 449432
 Package: mt-jailbreak.centaur
-Version: 1.1.2
+Version: 2.1.2
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Trung tâm thông báo hiện đại hơn.
@@ -64,7 +64,7 @@ MD5sum: 0758524d4ca1e148fe143c0cf8ec4ba0
 Filename: ./debs/KeyboardPlus.deb
 Size: 429706
 Package: mt-jailbreak.keyboardplus
-Version: 1.1.1
+Version: 2.1.1
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Bổ sung các tính năng cho bàn phím của bạn!
@@ -79,7 +79,7 @@ MD5sum: 0908fe57d85d61b618d2138cc216a749
 Filename: ./debs/PullOverPro.deb
 Size: 1521598
 Package: mt-jailbreak.PullOverPro
-Version: 2.1.1
+Version: 3.1.1
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Cửa sổ đa nhiệm hoàn hảo cho thiết bị của bạn!
@@ -94,7 +94,7 @@ MD5sum: fb4af39d86753d7b0fd4ba8783807561
 Filename: ./debs/KillAllApps.deb
 Size: 62834
 Package: mt-jailbreak.killallapps
-Version: 3.2.0
+Version: 4.2.0
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Vuốt xuống trong bộ chuyển đổi ứng dụng để Đóng tất cả các ứng dụng nền
@@ -115,7 +115,7 @@ MD5sum: 09e9ba121bada4e51fd3880ac32c39bb
 Filename: ./debs/Axon.deb
 Size: 200214
 Package: mt-jailbreak.axon
-Version: 1.4
+Version: 2.4
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Nhóm và xem các thông báo chưa đọc trên màn hình khóa
@@ -131,7 +131,7 @@ MD5sum: 253306ebc80b793de87103697072bbbe
 Filename: ./debs/Badgomizer.deb
 Size: 421144
 Package: mt-jailbreak.badgomizer
-Version: 1.6.11
+Version: 2.6.11
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Tùy chỉnh đầy đủ huy hiệu ứng dụng, nút xoá và dấu chấm mới.
