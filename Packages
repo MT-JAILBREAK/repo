@@ -15,9 +15,9 @@ MD5sum: e56ec86e329a68391b025478c54ddc3d
 
 
 Filename: ./debs/ChargeAnimations.deb
-Size: 24851192
+Size: 24851184
 Package: mt-jailbreak.ChargeAnimations
-Version: 3.2
+Version: 3..0.6
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Hoạt hình khi bạn cắm sạc vào thiết bị của bạn!
@@ -25,8 +25,8 @@ Depends: mt-jailbreak.cracktool4 | com.julioverne.cracktool4, firmware (>= 5.0),
 Architecture: iphoneos-arm
 Name: ChargeAnimations VH
 Author: c1d3r
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: 2d611e18d1f72db98bcca2883924bc5a
+Icon: file:///Library/PreferenceBundles/ChargeAnimationsPreferences.bundle/ChargeAnimationsPreferencesIcon@2x.png
+MD5sum: 5c760ed7eba6bdda2c2b312914f43418
 
 
 Filename: ./debs/Cracktool4.deb
