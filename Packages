@@ -29,28 +29,27 @@ Icon: file:///Library/PreferenceBundles/ChargeAnimationsPreferences.bundle/Charg
 MD5sum: 5c760ed7eba6bdda2c2b312914f43418
 
 
-Filename: ./debs/Cracktool4.deb
-Size: 2957364
+Filename: ./debs/CrackTool4.deb
+Size: 2957300
 Package: mt-jailbreak.cracktool4
-Version: 4.1
+Version: 4.0~beta10b
 Section: Tweaks
 Maintainer: Minh Tuấn Repo
-Homepage: https://julio.hackyouriphone.org/description.html?id=com.julioverne.cracktool4
 Description: Trình kích hoạt bản quyền!
 Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
 Conflicts: com.julioverne.cracktool4
 Architecture: iphoneos-arm
 Name: CrackTool4 (iOS 9 - 14)
 Author: julioverne
-Icon: file:///Applications/Cydia.app/Sections/tienich.png
-MD5sum: 439dca67cafed3329e0617d437a01fc1
+Icon: file:///Applications/CrackTool4.app_/Icon.png
+MD5sum: 5efa49b42e307b8e31944570a082a249
 
 
 
 Filename: ./debs/Centaur.deb
-Size: 449422
+Size: 449432
 Package: mt-jailbreak.centaur
-Version: 2.0
+Version: 1.1.2
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Trung tâm thông báo hiện đại hơn.
@@ -58,14 +57,14 @@ Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker
 Architecture: iphoneos-arm
 Name: Centaur VH
 Author: Muirey03
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: 5c594a028879ccd6983fed694648fb8b
+Icon: file:///Library/PreferenceBundles/Centaur.bundle/Icon@2x.png
+MD5sum: 0758524d4ca1e148fe143c0cf8ec4ba0
 
 
 Filename: ./debs/KeyboardPlus.deb
-Size: 429712
+Size: 429706
 Package: mt-jailbreak.keyboardplus
-Version: 2.1
+Version: 1.1.1
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Bổ sung các tính năng cho bàn phím của bạn!
@@ -73,14 +72,14 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
 Architecture: iphoneos-arm
 Name: KeyboardPlus VH
 Author: Ryan Nair
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: 23ce470ffb53266eaab24185f7b9b9e5
+Icon: file:///Library/PreferenceBundles/KeyboardPlus.bundle/icon@2x.png
+MD5sum: 0908fe57d85d61b618d2138cc216a749
 
 
 Filename: ./debs/PullOverPro.deb
-Size: 1521602
+Size: 1521598
 Package: mt-jailbreak.PullOverPro
-Version: 2.2.1
+Version: 2.1.1
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Cửa sổ đa nhiệm hoàn hảo cho thiết bị của bạn!
@@ -88,14 +87,14 @@ Depends: mt-jailbreak.cracktool4 | com.julioverne.cracktool4, firmware (>= 10.0)
 Architecture: iphoneos-arm
 Name: PullOver Pro VH
 Author: c1d3r
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: 09a29915beabd5f3138d5a23a88ca61c
+Icon: file:///Library/PreferenceBundles/PullOverProPreferences.bundle/PullOverProPreferencesIcon@2x.png
+MD5sum: fb4af39d86753d7b0fd4ba8783807561
 
 
 Filename: ./debs/KillAllApps.deb
-Size: 62998
+Size: 62834
 Package: mt-jailbreak.killallapps
-Version: 3.3.0
+Version: 3.2.0
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Vuốt xuống trong bộ chuyển đổi ứng dụng để Đóng tất cả các ứng dụng nền
@@ -110,13 +109,13 @@ Depends: mobilesubstrate, preferenceloader, applist, com.haoict.libhdev (>= 4.6.
 Architecture: iphoneos-arm
 Name: Kill All Apps VH
 Author: Hao Nguyen
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: fb0f16fdc4a7c033b960eab6504e21bf
+Icon: file:///Library/PreferenceBundles/KAAPref.bundle/icon@2x.png
+MD5sum: 09e9ba121bada4e51fd3880ac32c39bb
 
 Filename: ./debs/Axon.deb
-Size: 200208
+Size: 200214
 Package: mt-jailbreak.axon
-Version: 1.5
+Version: 1.4
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Nhóm và xem các thông báo chưa đọc trên màn hình khóa
@@ -125,14 +124,14 @@ Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.i
 Architecture: iphoneos-arm
 Name: Axon VH
 Author: Nepeta
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: 1cab2e601805385e9784053e3c489498
+Icon: file:///Library/PreferenceBundles/AxonPrefs.bundle/icon@2x.png
+MD5sum: 253306ebc80b793de87103697072bbbe
 
 
 Filename: ./debs/Badgomizer.deb
-Size: 421140
+Size: 421144
 Package: mt-jailbreak.badgomizer
-Version: 1.7
+Version: 1.6.11
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Tùy chỉnh đầy đủ huy hiệu ứng dụng, nút xoá và dấu chấm mới.
@@ -142,7 +141,22 @@ Name: Badgomizer VH
 Author: merdok <merdok87@o2.pl>
 Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Icon: file:///Library/PreferenceBundles/badgomizerprefs.bundle/badgomizer@2x.png
-MD5sum: 94d5378f4ee3f6375549e3e93910d0a2
+MD5sum: 2cb69c353ede3440a636fad1910623e4
+
+
+Filename: ./debs/HomeGesture.deb
+Size: 2297334
+Package: mt-jailbreak.homegesture
+Version: 2.1.4
+Section: Tinh chỉnh Việt hóa
+Maintainer: Minh Tuấn Repo
+Description: Cử chỉ iPhone X cho thiết bị đời thấp
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Name: HomeGesture VH
+Author: VitaTaf/MidnightChips/PINPAL
+Icon: file:///Library/PreferenceBundles/HomeGesture.bundle/icon@2x.png
+MD5sum: bda5ea86dda5fb821a1a5789174d10ee
 
 
 
