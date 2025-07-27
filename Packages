@@ -1,8 +1,8 @@
 
 Filename: ./debs/HomePlus.deb
-Size: 1310424
+Size: 1310416
 Package: mt-jailbreak.homeplus
-Version: 1.1
+Version: 1.0
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Homepage: https://repo.krit.me/pack/homeplus
@@ -12,7 +12,7 @@ Architecture: iphoneos-arm
 Name: HomePlus VH
 Author: Kritanta
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: fb25f073d9cfb379bf40d39b177c9c24
+MD5sum: e56ec86e329a68391b025478c54ddc3d
 
 
 Filename: ./debs/ChargeAnimations.deb
