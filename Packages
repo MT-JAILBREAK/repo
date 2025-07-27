@@ -5,7 +5,6 @@ Package: mt-jailbreak.homeplus
 Version: 1.0
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
-Homepage: https://repo.krit.me/pack/homeplus
 Description: Sắp xếp bố cục trên màn hình chính
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
