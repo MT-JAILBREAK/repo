@@ -180,5 +180,53 @@ SHA1: 44631962cd15e32bf0407f7eae3ee085d6bcb4ac
 SHA256: 51a4ef35805ec2e1bca467ba983b5a6e3cfedc788d481106c2d8acaa9fced772
 
 
+Filename: ./debs/Activator.deb
+Size: 1244146
+Package: mt-jailbreak.libactivator
+Version: 1.9.13
+Section: Tinh chỉnh Việt hóa
+Maintainer: Minh Tuấn Repo
+Description: Thêm nhiều cử chỉ cho iPhone
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~rc3), com.rpetrich.rocketbootstrap (>= 1.0.9)
+Architecture: iphoneos-arm
+Name: Activator VH
+Author: Ryan Petrich
+Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
+MD5sum: eafbc295cb6e51f01eddf6254002c555
+SHA1: 4584626d166a8966c842f9257ec8af28f531ad6b
+SHA256: d51f3209691bbbf96d69ca1d7dac3e80ea10596e6e45b9e93f818ea489b4b117
+
+
+Filename: ./debs/Lower.deb
+Size: 25536
+Package: mt-jailbreak.lower
+Version: 1.5.1
+Section: Tinh chỉnh Việt hóa
+Maintainer: Minh Tuấn Repo
+Description: Thay đổi chiều cao thông báo, Trình phát phương nhạc.
+Depends: mobilesubstrate, firmware (>=11.0)
+Name: Lower VH
+Author: s1ris
+Icon: file:///Applications/cydia.app/tinhchinh.png
+MD5sum: f4f1e3cf66c97112a70480fadae65439
+SHA1: 0f7b285fba57cce1b23268439c3c201729bf12b6
+SHA256: f28dca5e26d2bf2c15e2294874a247c6a74cee94b67143cc5d079ae8064c9aea
+
+
+Filename: ./debs/NiceBarX.deb
+Size: 3626442
+Package: mt-jailbreak.nicebarx
+Version: 3.0.0.5R
+Section: Tinh chỉnh Việt hóa
+Maintainer: Minh Tuấn Repo
+Description: Thanh trạng thái dành cho thiết bị giả iPhone X (Miễn phí chỉ hỗ trợ iOS 11-12)
+Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
+Name: NiceBarX VH
+Author: niceios
+Icon: file:///Library/PreferenceBundles/nicebarxbundle.bundle/icon.png
+MD5sum: 4ab08c914ffcb1488578c580f03550e6
+SHA1: 47c0d9bc0f803a65670fdddea004d597451e8770
+SHA256: c742315ec37b48bb7d342341dc44bef9ffc779afbddb1e66a50bc25230f5b52b
+
 
 
