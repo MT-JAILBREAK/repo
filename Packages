@@ -204,7 +204,7 @@ Version: 1.6
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Thay đổi chiều cao thông báo, Trình phát phương nhạc.
-Depends: mobilesubstrate, firmware (>=11.0)
+Depends: mt-jailbreak.mobilesubstrate, firmware (>=11.0)
 Name: Lower VH
 Author: s1ris
 Icon: file:///Applications/cydia.app/tinhchinh.png
@@ -220,7 +220,7 @@ Version: 3.1
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Thanh trạng thái dành cho thiết bị giả iPhone X (Miễn phí chỉ hỗ trợ iOS 11-12)
-Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
+Depends: mt-jailbreak.rocketbootstrap,mt-jailbreak.mobilesubstrate
 Name: NiceBarX VH
 Author: niceios
 Icon: file:///Library/PreferenceBundles/nicebarxbundle.bundle/icon.png
@@ -229,4 +229,42 @@ SHA1: 47c0d9bc0f803a65670fdddea004d597451e8770
 SHA256: c742315ec37b48bb7d342341dc44bef9ffc779afbddb1e66a50bc25230f5b52b
 
 
+Filename: ./debs/mobilesubstrate.deb
+Size: 6359042
+Package: mt-jailbreak.mobilesubstrate
+Architecture: iphoneos-arm
+Name: Cydia Substrate
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/mobilesubstrate/
+Depends: com.saurik.substrate.safemode
+Pre-Depends: dpkg (>= 1.14.25-8)
+Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
+Replaces: cycript (<= 0.9.594), com.saurik.substrate
+Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootstrap, com.saurik.substrate (<< 1:0)
+Priority: optional
+Version: 0.9.7113
+Description: powerful code insertion platform
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Section: System
+MD5sum: efbe46819ae4741a36b8f59d0736aaaa
+SHA1: 53ec219b53841bf8329070994699a1bd1078a3ed
+SHA256:028dccfbcd59ceb6627aa7095ce11f3a3b1145dfbe8bf3390600cd617a31c152
 
+
+Filename: ./debs/rocketbootstrap.deb
+Size: 68672
+Package: com.rpetrich.rocketbootstrap
+Version: 1.0.10~beta1
+Section: System
+Maintainer: Minh Tuấn Repo
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Architecture: iphoneos-arm
+Installed-Size: 596
+Name: RocketBootstrap
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/hethong.png
+Tag: purpose::extension, role::developer
+MD5sum: d8ac0e9fd33b162d7ffe2970d2b098a3
+SHA1: c808c3d38f41f1384ed3a58deb2657447c0a143c
+SHA256:d3763beaf89bad66b12a4997976194d26d0ade077cae2c2ed0a444406e4af35a
