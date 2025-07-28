@@ -183,7 +183,7 @@ SHA256: 51a4ef35805ec2e1bca467ba983b5a6e3cfedc788d481106c2d8acaa9fced772
 Filename: ./debs/Activator.deb
 Size: 1244146
 Package: mt-jailbreak.libactivator
-Version: 1.9.13
+Version: 2.0
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Thêm nhiều cử chỉ cho iPhone
@@ -200,7 +200,7 @@ SHA256: d51f3209691bbbf96d69ca1d7dac3e80ea10596e6e45b9e93f818ea489b4b117
 Filename: ./debs/Lower.deb
 Size: 25536
 Package: mt-jailbreak.lower
-Version: 1.5.1
+Version: 1.6
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Thay đổi chiều cao thông báo, Trình phát phương nhạc.
@@ -216,7 +216,7 @@ SHA256: f28dca5e26d2bf2c15e2294874a247c6a74cee94b67143cc5d079ae8064c9aea
 Filename: ./debs/NiceBarX.deb
 Size: 3626442
 Package: mt-jailbreak.nicebarx
-Version: 3.0.0.5R
+Version: 3.1
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Thanh trạng thái dành cho thiết bị giả iPhone X (Miễn phí chỉ hỗ trợ iOS 11-12)
