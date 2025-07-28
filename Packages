@@ -9,6 +9,7 @@ Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Name: HomePlus VH
 Author: Kritanta
+Depiction: https://mt-jailbreak.github.io/repo/depiction.html
 Icon: file:///Library/PreferenceBundles/HomePlusPrefs.bundle/icon@2x.png
 MD5sum: 73013a3f49a9782aaf2acec7c0215936
 SHA1: 0e5abc95f41c3e6254432eee57db3e67f239d7fd
