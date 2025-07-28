@@ -7,3 +7,4 @@ Architectures: iphoneos-arm
 Components: main
 Description: MT Repo
 Icon: https://github.com/MinhTuan1985/mt-jailbreak/icon.png
+Icon: ./path/to/icon.png
