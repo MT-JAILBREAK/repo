@@ -1,11 +1,9 @@
-
 Filename: ./debs/HomePlus.deb
 Size: 1314822
 Package: mt-jailbreak.homeplus
 Version: 1.0
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
-Homepage: httts://mt-jailbreak.github.io/repo
 Description: Sắp xếp bố cục trên màn hình chính
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
@@ -18,9 +16,9 @@ SHA256: bc3bedc1c08ea88c50a6fdbbb6c5ebb83bd2118685414945cb52665f4b9d3229
 
 
 Filename: ./debs/ChargeAnimations.deb
-Size: 24851192
+Size: 24851184
 Package: mt-jailbreak.ChargeAnimations
-Version: 3.2
+Version: 3.0.6
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Hoạt hình khi bạn cắm sạc vào thiết bị của bạn!
@@ -28,8 +26,10 @@ Depends: mt-jailbreak.cracktool4 | com.julioverne.cracktool4, firmware (>= 5.0),
 Architecture: iphoneos-arm
 Name: ChargeAnimations VH
 Author: c1d3r
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: 2d611e18d1f72db98bcca2883924bc5a
+Icon: file:///Library/PreferenceBundles/ChargeAnimationsPreferences.bundle/ChargeAnimationsPreferencesIcon@2x.png
+MD5sum: 5c760ed7eba6bdda2c2b312914f43418
+SHA1: 95003aee77b907b7e26c50b931aa08882eb78957
+SHA256: a9df004c7841707511fd8a679a266ef0ed8d3ab0cfb9ab23720b90ef42f61019
 
 
 Filename: ./debs/Cracktool4.deb
@@ -47,6 +47,8 @@ Name: CrackTool4 (iOS 9 - 14)
 Author: julioverne
 Icon: file:///Applications/Cydia.app/Sections/tienich.png
 MD5sum: 439dca67cafed3329e0617d437a01fc1
+SHA1: 0e5abc95f41c3e6254432eee57db3e67f239d7fd
+SHA256: bc3bedc1c08ea88c50a6fdbbb6c5ebb83bd2118685414945cb52665f4b9d3229
 
 
 
@@ -63,6 +65,8 @@ Name: Centaur VH
 Author: Muirey03
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 MD5sum: 5c594a028879ccd6983fed694648fb8b
+SHA1: 0e5abc95f41c3e6254432eee57db3e67f239d7fd
+SHA256: bc3bedc1c08ea88c50a6fdbbb6c5ebb83bd2118685414945cb52665f4b9d3229
 
 
 Filename: ./debs/KeyboardPlus.deb
@@ -78,6 +82,8 @@ Name: KeyboardPlus VH
 Author: Ryan Nair
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 MD5sum: 23ce470ffb53266eaab24185f7b9b9e5
+SHA1: 0e5abc95f41c3e6254432eee57db3e67f239d7fd
+SHA256: bc3bedc1c08ea88c50a6fdbbb6c5ebb83bd2118685414945cb52665f4b9d3229
 
 
 Filename: ./debs/PullOverPro.deb
@@ -93,6 +99,8 @@ Name: PullOver Pro VH
 Author: c1d3r
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 MD5sum: 09a29915beabd5f3138d5a23a88ca61c
+SHA1: 0e5abc95f41c3e6254432eee57db3e67f239d7fd
+SHA256: bc3bedc1c08ea88c50a6fdbbb6c5ebb83bd2118685414945cb52665f4b9d3229
 
 
 Filename: ./debs/KillAllApps.deb
@@ -115,6 +123,9 @@ Name: Kill All Apps VH
 Author: Hao Nguyen
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 MD5sum: fb0f16fdc4a7c033b960eab6504e21bf
+SHA1: 0e5abc95f41c3e6254432eee57db3e67f239d7fd
+SHA256: bc3bedc1c08ea88c50a6fdbbb6c5ebb83bd2118685414945cb52665f4b9d3229
+
 
 Filename: ./debs/Axon.deb
 Size: 200208
@@ -130,6 +141,8 @@ Name: Axon VH
 Author: Nepeta
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 MD5sum: 1cab2e601805385e9784053e3c489498
+SHA1: 0e5abc95f41c3e6254432eee57db3e67f239d7fd
+SHA256: bc3bedc1c08ea88c50a6fdbbb6c5ebb83bd2118685414945cb52665f4b9d3229
 
 
 Filename: ./debs/Badgomizer.deb
@@ -146,6 +159,8 @@ Author: merdok <merdok87@o2.pl>
 Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Icon: file:///Library/PreferenceBundles/badgomizerprefs.bundle/badgomizer@2x.png
 MD5sum: 94d5378f4ee3f6375549e3e93910d0a2
+SHA1: 0e5abc95f41c3e6254432eee57db3e67f239d7fd
+SHA256: bc3bedc1c08ea88c50a6fdbbb6c5ebb83bd2118685414945cb52665f4b9d3229
 
 
 Filename: ./debs/HomeGesture.deb
@@ -161,6 +176,8 @@ Name: HomeGesture VH
 Author: VitaTaf/MidnightChips/PINPAL
 Icon: file:///Library/PreferenceBundles/HomeGesture.bundle/icon@2x.png
 MD5sum: bda5ea86dda5fb821a1a5789174d10ee
+SHA1: 0e5abc95f41c3e6254432eee57db3e67f239d7fd
+SHA256: bc3bedc1c08ea88c50a6fdbbb6c5ebb83bd2118685414945cb52665f4b9d3229
 
 
 
