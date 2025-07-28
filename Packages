@@ -16,7 +16,7 @@ SHA256: bc3bedc1c08ea88c50a6fdbbb6c5ebb83bd2118685414945cb52665f4b9d3229
 
 
 Filename: ./debs/ChargeAnimations.deb
-Size: 24851184
+Size: 24851182
 Package: mt-jailbreak.ChargeAnimations
 Version: 3.2
 Section: Tinh chỉnh Việt hóa
@@ -27,9 +27,9 @@ Architecture: iphoneos-arm
 Name: ChargeAnimations VH
 Author: c1d3r
 Icon: file:///Library/PreferenceBundles/ChargeAnimationsPreferences.bundle/ChargeAnimationsPreferencesIcon@2x.png
-MD5sum: 5c760ed7eba6bdda2c2b312914f43418
-SHA1: 95003aee77b907b7e26c50b931aa08882eb78957
-SHA256: a9df004c7841707511fd8a679a266ef0ed8d3ab0cfb9ab23720b90ef42f61019
+MD5sum: b54da4e615587e68dd822dcc8f70a198
+SHA1: 0c1e7aaf084dea84d58f6338b1350828b787cdb4
+SHA256: c7b1e246302d391a871922ec06607a4b04748e2c6287cc8845cfc13ef2079f9a
 
 
 Filename: ./debs/Cracktool4.deb
