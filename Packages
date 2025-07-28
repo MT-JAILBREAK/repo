@@ -181,7 +181,7 @@ SHA256: 51a4ef35805ec2e1bca467ba983b5a6e3cfedc788d481106c2d8acaa9fced772
 
 
 Filename: ./debs/Activator.deb
-Size: 1244146
+Size: 1244010
 Package: mt-jailbreak.libactivator
 Version: 2.0
 Section: Tinh chỉnh Việt hóa
@@ -189,12 +189,14 @@ Maintainer: Minh Tuấn Repo
 Description: Thêm nhiều cử chỉ cho iPhone
 Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~rc3), com.rpetrich.rocketbootstrap (>= 1.0.9)
 Architecture: iphoneos-arm
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
 Name: Activator VH
 Author: Ryan Petrich
 Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
-MD5sum: eafbc295cb6e51f01eddf6254002c555
-SHA1: 4584626d166a8966c842f9257ec8af28f531ad6b
-SHA256: d51f3209691bbbf96d69ca1d7dac3e80ea10596e6e45b9e93f818ea489b4b117
+MD5sum: fd6f13c6a0cc3a12ad94400a9cd119fb
+SHA1: 74010b28380247919cdba06422c8193c2ec58cfa
+SHA256: 41af3ec8c21ca5d338341051d07400389fe8e6f473ab891d07b826d08f85c102
 
 
 Filename: ./debs/Lower.deb
@@ -208,13 +210,13 @@ Depends:
 Name: Lower VH
 Author: s1ris
 Icon: file:///Applications/cydia.app/tinhchinh.png
-MD5sum: f4f1e3cf66c97112a70480fadae65439
-SHA1: 0f7b285fba57cce1b23268439c3c201729bf12b6
-SHA256: f28dca5e26d2bf2c15e2294874a247c6a74cee94b67143cc5d079ae8064c9aea
+MD5sum: fbebeb4b755607a57911f254f6f22e5b
+SHA1: 50cb75b5c3ccffd3d20f31a1fa809ae59286fecd
+SHA256: 2ad32901d5713e45d1087c573a5c664af6b34dda4360040345bed8982fed75ee
 
 
 Filename: ./debs/NiceBarX.deb
-Size: 3626442
+Size: 3626438
 Package: mt-jailbreak.nicebarx
 Version: 3.1
 Section: Tinh chỉnh Việt hóa
@@ -224,8 +226,8 @@ Depends:
 Name: NiceBarX VH
 Author: niceios
 Icon: file:///Library/PreferenceBundles/nicebarxbundle.bundle/icon.png
-MD5sum: 4ab08c914ffcb1488578c580f03550e6
-SHA1: 47c0d9bc0f803a65670fdddea004d597451e8770
-SHA256: c742315ec37b48bb7d342341dc44bef9ffc779afbddb1e66a50bc25230f5b52b
+MD5sum: f25d328aeba50e40c6e4a16d72dda266
+SHA1: 38539f9803305662fc03bfa4528f15a9526ccf7d
+SHA256: 1df9ccea6c81745ebdbb08e29ffce5ce9bc5f9ecb42e270b002d5c1f63d6d85d
 
 
