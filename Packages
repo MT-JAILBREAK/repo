@@ -207,7 +207,7 @@ Version: 1.6
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Thay đổi chiều cao thông báo, Trình phát phương nhạc.
-Depends: 
+Depends: mobilesubstrate, firmware (>=11.0)
 Name: Lower VH
 Author: s1ris
 Icon: file:///Applications/cydia.app/tinhchinh.png
@@ -223,7 +223,7 @@ Version: 3.1
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Thanh trạng thái dành cho thiết bị giả iPhone X (Miễn phí chỉ hỗ trợ iOS 11-12)
-Depends: 
+Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
 Name: NiceBarX VH
 Author: niceios
 Icon: file:///Library/PreferenceBundles/nicebarxbundle.bundle/icon.png
