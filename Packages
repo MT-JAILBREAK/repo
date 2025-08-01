@@ -219,12 +219,12 @@ SHA256: 2ad32901d5713e45d1087c573a5c664af6b34dda4360040345bed8982fed75ee
 Filename: ./debs/NiceBarX.deb
 Size: 3043040
 Package: mt-jailbreak.nicebarx
-Version: 3.1
+Version: 3.5
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Homepage: https://repo.niceios.com/
-Description: Thanh trạng thái dành cho thiết bị giả iPhone X (Miễn cho iOS 11-12)
-Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
+Description: Thanh trạng thái dành cho thiết bị giả iPhone X (Miễn phí cho iOS 11-12)
+Depends: 
 Name: NiceBarX VH
 Author: niceios
 Installed-Size: 11544
