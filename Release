@@ -7,4 +7,4 @@ Architectures: iphoneos-arm
 Components: main
 Description: MT Repo
 Icon: https://github.com/mt-jailbreak/repo/CydiaIcon.png
-Icon: ./path/to/icon.png
+
