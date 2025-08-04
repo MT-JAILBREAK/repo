@@ -201,20 +201,19 @@ SHA256: 41af3ec8c21ca5d338341051d07400389fe8e6f473ab891d07b826d08f85c102
 
 
 Filename: ./debs/Lower.deb
-Size: 25536
+Size: 25530
 Package: mt-jailbreak.lower
-Homepage: https://mt-jailbreak.github.io/repo
 Version: 1.6
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
-Description: Thay đổi chiều cao thông báo, Trình phát phương nhạc.
-Depends: mobilesubstrate, firmware (>=11.0)
+Description: Thay đổi chiều cao thông báo và trình phát nhạc.
+Depends: 
 Name: Lower VH
 Author: s1ris
 Icon: file:///Applications/cydia.app/tinhchinh.png
-MD5sum: fbebeb4b755607a57911f254f6f22e5b
-SHA1: 50cb75b5c3ccffd3d20f31a1fa809ae59286fecd
-SHA256: 2ad32901d5713e45d1087c573a5c664af6b34dda4360040345bed8982fed75ee
+MD5sum: 90f4e9ad28698686c167540492b6e953
+SHA1: f16a028d2470f7be33b35bea4adc2a4a70ebd56e
+SHA256: 33602137952ecf6c7d421c60b9aa42636588b9a8153168be0ced1d5e29caa5a2
 
 
 Filename: ./debs/NiceBarX.deb
