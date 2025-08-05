@@ -201,7 +201,7 @@ SHA256: 41af3ec8c21ca5d338341051d07400389fe8e6f473ab891d07b826d08f85c102
 
 
 Filename: ./debs/Lower.deb
-Size: 45984
+Size: 48888
 Package: mt-jailbreak.lower
 Version: 1.6
 Section: Tinh chỉnh Việt hóa
@@ -211,10 +211,10 @@ Depends: mobilesubstrate, firmware (>=11.0)
 Name: Lower VH
 Author: s1ris
 Architecture: iphoneos-arm
-Icon: file:///Library/PreferenceBundles/LowerSettings.bundle/icon.png
-MD5sum: f8afaf8351ca7ea228a0905992b34fcb
-SHA1: 64b05a4bd1c7f9c1ce725f126c3fca0dbebdf844
-SHA256: 70fdf933220dbeda0ef8c6e9c493afcaf93be4024fffdf2adafcdecb38f58abe
+Icon: file:///Library/PreferenceBundles/LowerSettings.bundle/Lower.png
+MD5sum: bfcfb661a3ddec15b35733d058152422
+SHA1: 43ff1abd91a676e4460058bd7a6fb44ea455609f
+SHA256: de3e7f83b3311ce1b09b03f4c0cf56a079bcde5d14eeecfa5db8f1afee6dfbb1
 
 
 Filename: ./debs/NiceBarX.deb
