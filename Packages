@@ -220,7 +220,7 @@ SHA256: de3e7f83b3311ce1b09b03f4c0cf56a079bcde5d14eeecfa5db8f1afee6dfbb1
 Filename: ./debs/NiceBarX.deb
 Size: 3043040
 Package: mt-jailbreak.nicebarx
-Version: 3.0
+Version: 3.1
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Homepage: https://repo.niceios.com/
@@ -238,7 +238,7 @@ SHA256: ee6ebaecaba699492b68c8e697d6ca59282014a8f6a87978bc1c62f0dfe80fe5
 Filename: ./debs/Shuffle.deb
 Size: 598996
 Package: mt-jailbreak.shuffle
-Version: 1.6.1
+Version: 1.6.2
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Sắp xếp cài đặt của bạn
