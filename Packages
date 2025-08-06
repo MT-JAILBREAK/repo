@@ -238,7 +238,7 @@ SHA256: ee6ebaecaba699492b68c8e697d6ca59282014a8f6a87978bc1c62f0dfe80fe5
 Filename: ./debs/Shuffle.deb
 Size: 598996
 Package: mt-jailbreak.shuffle
-Version: 1.6.2
+Version: 1.7
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Sắp xếp cài đặt của bạn
@@ -250,9 +250,9 @@ Architecture: iphoneos-arm
 Tags: compatible_min::ios10, compatible_max::ios15
 Author: CreatureSurvive
 Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
-MD5sum: e40f6217c78c2cd6bc3bf04dbcaee456
-SHA1: 7e33668eb23916b304506ad1e98904417dc8657d
-SHA256: 5a484bbab012df24d7a38d013cb5db61037a88b9086b4eb0bf787c61cda95650
+MD5sum: f26c57973b3b81d9dc3362ab82bfb36d
+SHA1: 5a925d76b9add4df182da977c370a477fff27e1f
+SHA256: 2ae813469a35c028061a6a15d6016234d9c5b46ed029419a6d2c676366ee9d23
 
 
 Filename: ./debs/Sareth.deb
