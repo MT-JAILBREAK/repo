@@ -229,11 +229,49 @@ Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
 Name: NiceBarX VH
 Architecture: iphoneos-arm
 Author: niceios
-Installed-Size: 11544
 Icon: file:///Library/PreferenceBundles/nicebarxbundle.bundle/icon.png
 MD5sum: 0fbd0abfa3dfe4d527b5bff10c768f3c
 SHA1: 77ec0b4c200b6370b45fadce14788122b502cf45
 SHA256: ee6ebaecaba699492b68c8e697d6ca59282014a8f6a87978bc1c62f0dfe80fe5
+
+
+Filename: ./debs/Shuffle.deb
+Size: 598996
+Package: mt-jailbreak.shuffle
+Version: 1.6.2
+Section: Tinh chỉnh Việt hóa
+Maintainer: Minh Tuấn Repo
+Description: Sắp xếp cài đặt của bạn
+Depends: com.creaturecoding.libcspreferences
+Replaces: com.cpdigitaldarkroom.placeholder
+Conflicts: com.cpdigitaldarkroom.placeholder
+Name: Shuffle VH
+Architecture: iphoneos-arm
+Tags: compatible_min::ios10, compatible_max::ios15
+Author: CreatureSurvive
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+MD5sum: e40f6217c78c2cd6bc3bf04dbcaee456
+SHA1: 7e33668eb23916b304506ad1e98904417dc8657d
+SHA256: 5a484bbab012df24d7a38d013cb5db61037a88b9086b4eb0bf787c61cda95650
+
+
+Filename: ./debs/Sareth.deb
+Size: 2910710
+Package: mt-jailbreak.sareth
+Version: 1.16-2
+Section: Tinh chỉnh Việt hóa
+Maintainer: Minh Tuấn Repo
+Description: Chèn ảnh vào Trung tâm điều khiển của bạn.
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), ws.hbang.common
+Conflicts: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
+Replaces: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
+Name: Sareth VH
+Architecture: iphoneos-arm
+Author: iKilledAppl3
+Icon: file:///Library/PreferenceBundles/Sareth.bundle/Sareth@3x.png
+MD5sum: e2994dcb5333d238b24ee8fb4178f803
+SHA1: 07e6c6c1c9a2e8dd5408e353121c324e9d3d0026
+SHA256: a05b07b78446caf8855632e7109a8eb2dfd12268fc00c69fc733dbd6abbe1e9b
 
 
 
