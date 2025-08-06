@@ -242,6 +242,7 @@ Version: 1.7
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Sắp xếp cài đặt của bạn
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
 Depends: com.creaturecoding.libcspreferences
 Replaces: com.cpdigitaldarkroom.placeholder
 Conflicts: com.cpdigitaldarkroom.placeholder
