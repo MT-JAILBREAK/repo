@@ -258,9 +258,9 @@ SHA256: 2ae813469a35c028061a6a15d6016234d9c5b46ed029419a6d2c676366ee9d23
 
 
 Filename: ./debs/Sareth.deb
-Size: 2894070
+Size: 2894066
 Package: com.ikilledappl3.sareth
-Version: 1.16-2
+Version: 1.2
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
 Description: Chèn ảnh vào Trung tâm điều khiển của bạn.
@@ -271,9 +271,9 @@ Name: Sareth VH
 Architecture: iphoneos-arm
 Author: iKilledAppl3
 Icon: file:///Library/PreferenceBundles/Sareth.bundle/Sareth@3x.png
-MD5sum: b98524f2d33ad7e9eb18ee45f9a7ef4c
-SHA1: 3b7cea6e41086f7cddbc2b64d265e44b9ba0005e
-SHA256: 06d2c01bab7aa39c99b68eb673dbba91396f7f19fdfa6ff9e5a7b5af4262f47c
+MD5sum: 8933853d5e456f1617ebd9397112c73c
+SHA1: df8eef64cdd299a6fb5b740b3fb178f6e98b4873
+SHA256: 5547be8a0efd1b33dc61768b223474956e4f8aa8758f9db40b7a706b14586e29
 
 
 
