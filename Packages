@@ -258,8 +258,8 @@ SHA256: 2ae813469a35c028061a6a15d6016234d9c5b46ed029419a6d2c676366ee9d23
 
 
 Filename: ./debs/Sareth.deb
-Size: 2894066
-Package: com.ikilledappl3.sareth
+Size: 2894072
+Package: mt-jailbreak.sareth
 Version: 1.2
 Section: Tinh chỉnh Việt hóa
 Maintainer: Minh Tuấn Repo
@@ -271,9 +271,9 @@ Name: Sareth VH
 Architecture: iphoneos-arm
 Author: iKilledAppl3
 Icon: file:///Library/PreferenceBundles/Sareth.bundle/Sareth@3x.png
-MD5sum: 8933853d5e456f1617ebd9397112c73c
-SHA1: df8eef64cdd299a6fb5b740b3fb178f6e98b4873
-SHA256: 5547be8a0efd1b33dc61768b223474956e4f8aa8758f9db40b7a706b14586e29
+MD5sum: c04334b9846783ca2a8714b6d24c7482
+SHA1: 131a31964967602a891ff0901c2c3a1f37f4a4b5
+SHA256: 49ca5a946141ca56df9f4979242229878079381c35bce1acb29b77bae600ceda
 
 
 
