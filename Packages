@@ -228,6 +228,7 @@ Description: Thanh trạng thái dành cho thiết bị giả iPhone X (Miễn p
 Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
 Name: NiceBarX VH
 Architecture: iphoneos-arm
+Installed-Size: 11544
 Author: niceios
 Icon: file:///Library/PreferenceBundles/nicebarxbundle.bundle/icon.png
 MD5sum: 0fbd0abfa3dfe4d527b5bff10c768f3c
