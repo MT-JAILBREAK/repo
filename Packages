@@ -259,6 +259,7 @@ SHA256: 2ae813469a35c028061a6a15d6016234d9c5b46ed029419a6d2c676366ee9d23
 
 Package: com.ikilledappl3.sareth
 Version: 1.17.2
+Section: Tinh chỉnh Việt hóa
 Architecture: iphoneos-arm
 Maintainer: Minh Tuấn Repo
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), ws.hbang.common
@@ -269,7 +270,6 @@ Size: 2894110
 MD5sum: 819e18aa42e7506e7e1bd23f55985a76
 SHA1: 25184e900d0b9b83e68887153152c6c49e6a6243
 SHA256: 3f7fbfac0f3c6100f50a5b8a8a92d62c1760c5d944a03532e1067978771089e1
-Section: Tinh chỉnh Việt hoá
 Homepage: https://mt-jailbreak.github.io/repo
 Description: Chèn ảnh vào Trung tâm điều khiển của bạn.
 Author: iKilledAppl3
