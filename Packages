@@ -257,6 +257,25 @@ SHA1: 5a925d76b9add4df182da977c370a477fff27e1f
 SHA256: 2ae813469a35c028061a6a15d6016234d9c5b46ed029419a6d2c676366ee9d23
 
 
+Package: com.ikilledappl3.sareth
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Minh Tuấn Repo
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), ws.hbang.common
+Conflicts: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
+Replaces: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
+Filename: debs/Sareth.deb
+Size: 2894110
+MD5sum: fc676e1b50e6b5b5496da82964303aa7
+SHA1: c0203b45e1de9f2bd6ecaf25a9caae6edd1854e9
+SHA256: 0afa0eda655618bf381675660b39e961ae98e128773e31225d8a6b252148ccf3
+Section: Tinh chỉnh Việt hoá
+Homepage: https://mt-jailbreak.github.io/repo
+Description: Chèn ảnh vào Trung tâm điều khiển của bạn.
+Author: iKilledAppl3
+Icon: file:///Library/PreferenceBundles/Sareth.bundle/Sareth@3x.png
+Name: Sareth VH
+
 
 
 
