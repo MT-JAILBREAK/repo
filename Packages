@@ -257,7 +257,7 @@ SHA1: 5a925d76b9add4df182da977c370a477fff27e1f
 SHA256: 2ae813469a35c028061a6a15d6016234d9c5b46ed029419a6d2c676366ee9d23
 
 
-Package: com.ikilledappl3.sareth
+Package: mt-jailbreak.sareth
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Minh Tuấn Repo
