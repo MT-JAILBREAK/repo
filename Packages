@@ -264,7 +264,7 @@ Maintainer: Minh Tuấn Repo
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), ws.hbang.common
 Conflicts: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
 Replaces: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
-Filename: debs/Sareth.deb
+Filename: ./debs/Sareth.deb
 Size: 2894110
 MD5sum: fc676e1b50e6b5b5496da82964303aa7
 SHA1: c0203b45e1de9f2bd6ecaf25a9caae6edd1854e9
