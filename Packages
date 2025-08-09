@@ -182,7 +182,6 @@ SHA256: 51a4ef35805ec2e1bca467ba983b5a6e3cfedc788d481106c2d8acaa9fced772
 
 
 Filename: ./debs/Activator.deb
-Size: 1244010
 Package: mt-jailbreak.libactivator
 Version: 2.0
 Section: Tinh chỉnh Việt hóa
@@ -195,9 +194,10 @@ Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6),
 Name: Activator VH
 Author: Ryan Petrich
 Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
-MD5sum: fd6f13c6a0cc3a12ad94400a9cd119fb
-SHA1: 74010b28380247919cdba06422c8193c2ec58cfa
-SHA256: 41af3ec8c21ca5d338341051d07400389fe8e6f473ab891d07b826d08f85c102
+Size: 1266222
+MD5sum: 3fb22b7ecbaf5a5683ed05cb85c82892
+SHA1: d7f1ea3654a083a3012a947e1a2f2306c89af74f
+SHA256: 76048e48870c1aec0e59205313e94c42657f6efb919d8353c4d54543d90fcc17
 
 
 Filename: ./debs/Lower.deb
@@ -275,6 +275,26 @@ Description: Chèn ảnh vào Trung tâm điều khiển của bạn.
 Author: iKilledAppl3
 Icon: file:///Library/PreferenceBundles/Sareth.bundle/Sareth@3x.png
 Name: Sareth VH
+
+
+Package: com.matchstic.xenhtml
+Version: 4.1~release
+Architecture: iphoneos-arm
+Maintainer: Minh Tuấn Repo
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
+Filename: ./debs/XenHTML.deb
+Size: 3951020
+MD5sum: 110ce21c4775e09549fafb6b928b8a7c
+SHA1: 204995797dcb6d55194ae190abe53aadd698b2d5
+SHA256: f56343f9777d4a5b60f50dd499eb8bcbae80e0d950118a37cf0cf05811d931c3
+Section: Tinh chỉnh Việt hóa 
+Priority: optional
+Description: Thêm tiện ích lên Màn hình chính & Màn hình khoá
+Author: Matt Clarke
+Dev: Matt Clarke
+Icon: file://Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@3x.png
+Name: XenHTML VH
 
 
 
