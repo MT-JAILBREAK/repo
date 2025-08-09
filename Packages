@@ -267,7 +267,7 @@ Architecture: iphoneos-arm
 Maintainer: Minh Tuấn Repo
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
-Filename: debs/XenHTML.deb
+Filename: ./debs/XenHTML.deb
 Size: 3949344
 MD5sum: 0d077916499fe155cb3e1422893db437
 SHA1: 09d1b14a0e022982aaf352128a821ea4ebbacdaa
