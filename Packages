@@ -280,6 +280,23 @@ Dev: Matt Clarke
 Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@3x.png
 Name: XenHTML VH
 
+Package: mt-jailbreak.powercuff
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Minh Tuấn Repo
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.opa334.altlist
+Filename: ./debs/PowerCuff.deb
+Size: 34856
+MD5sum: aa9e05353c6bb16425d75782dc7973e2
+SHA1: ae6846c7a1c6aef22785cbbfb93b30cad5fca87b
+SHA256: b2d191e5a132025e06483f0f85184662e40950d55475145846b8000e14203175
+Section: Tinh chỉnh Việt hoá
+Homepage: mt-jailbreak.github.io/repo
+Description: Chọn các trạng thái thiết bị bổ xung công suất thấp
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/PowercuffPref.bundle/Powercuff@3x.png
+Name: PowerCuff VH
+
 
 
 
