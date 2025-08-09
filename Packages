@@ -293,7 +293,7 @@ Priority: optional
 Description: Thêm tiện ích lên Màn hình chính & Màn hình khoá
 Author: Matt Clarke
 Dev: Matt Clarke
-Icon: file://Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon.png
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@3x.png
 Name: XenHTML VH
 
 
