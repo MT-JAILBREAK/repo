@@ -291,7 +291,7 @@ MD5sum: aa9e05353c6bb16425d75782dc7973e2
 SHA1: ae6846c7a1c6aef22785cbbfb93b30cad5fca87b
 SHA256: b2d191e5a132025e06483f0f85184662e40950d55475145846b8000e14203175
 Section: Tinh chỉnh Việt hóa
-Homepage: mt-jailbreak.github.io/repo
+Homepage: https://mt-jailbreak.github.io/repo
 Description: Chọn các trạng thái thiết bị bổ xung công suất thấp
 Tag: purpose::extension
 Icon: file:///Library/PreferenceBundles/PowercuffPref.bundle/Powercuff@3x.png
