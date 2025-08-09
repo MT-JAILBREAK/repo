@@ -267,18 +267,19 @@ Architecture: iphoneos-arm
 Maintainer: Minh Tuấn Repo
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
-Filename: ./debs/XenHTML.deb
-Size: 3951026
-MD5sum: f7d8747c66e2b93a67c1939b3b3b64bd
-SHA1: 72ca0b0f16a672ffb48a60334f12ab84335413b9
-SHA256: 75cd1f0ddfbd36b4fc0923d0942f5502935afcbf6eefa765d7ba253df836ddc0
-Section: Tinh chỉnh Việt hoá
+Filename: debs/XenHTML.deb
+Size: 3949344
+MD5sum: 0d077916499fe155cb3e1422893db437
+SHA1: 09d1b14a0e022982aaf352128a821ea4ebbacdaa
+SHA256: c435c9f0f93afe27bd899c160938ff5a243b3dcbd1fc8b5e02e43d523f593b9c
+Section: Tinh chỉnh Việt hóa
 Priority: optional
 Description: Thêm tiện ích lên Màn hình chính & Màn hình khoá
 Author: Matt Clarke
 Dev: Matt Clarke
 Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@3x.png
 Name: XenHTML VH
+
 
 
 
