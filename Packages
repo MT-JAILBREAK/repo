@@ -15,7 +15,6 @@ MD5sum: 73013a3f49a9782aaf2acec7c0215936
 SHA1: 0e5abc95f41c3e6254432eee57db3e67f239d7fd
 SHA256: bc3bedc1c08ea88c50a6fdbbb6c5ebb83bd2118685414945cb52665f4b9d3229
 
-
 Filename: ./debs/ChargeAnimations.deb
 Size: 24851182
 Package: mt-jailbreak.ChargeAnimations
@@ -31,7 +30,6 @@ Icon: file:///Library/PreferenceBundles/ChargeAnimationsPreferences.bundle/Charg
 MD5sum: b54da4e615587e68dd822dcc8f70a198
 SHA1: 0c1e7aaf084dea84d58f6338b1350828b787cdb4
 SHA256: c7b1e246302d391a871922ec06607a4b04748e2c6287cc8845cfc13ef2079f9a
-
 
 Filename: ./debs/Cracktool4.deb
 Size: 2957364
@@ -51,8 +49,6 @@ MD5sum: 439dca67cafed3329e0617d437a01fc1
 SHA1: 0114a2adacc4159dbd62437eeee2e2900a9d144c
 SHA256: a2d5de9425ceb395572dc2d7da6c2f336cd46c1cdd29b41f62861bacf0588d5d
 
-
-
 Filename: ./debs/Centaur.deb
 Size: 449430
 Package: mt-jailbreak.centaur
@@ -68,7 +64,6 @@ Icon: file:///Library/PreferenceBundles/Centaur.bundle/Icon@2x.png
 MD5sum: 9df7c6cffec003a1e106ce165c694966
 SHA1: 1bdce19dbbfbfa2357f4ed21287eee1c83a88f27
 SHA256: 73096595f5a3c7bc40d37b05b6e694b708859cd3c11640b4211dd60b90cfe340
-
 
 Filename: ./debs/KeyboardPlus.deb
 Size: 429708
@@ -86,7 +81,6 @@ MD5sum: 501d4fd73a667043c39a809617ca296d
 SHA1: 10200bed8fa1d3e37842e9096180ae541eb0fe4b
 SHA256: 51bde66a7fe0629d2ec99d66d013aa0d97ac1427bd86b61fa8803575071218fb
 
-
 Filename: ./debs/PullOverPro.deb
 Size: 1521596
 Package: mt-jailbreak.PullOverPro
@@ -102,7 +96,6 @@ Icon: file:///Library/PreferenceBundles/PullOverProPreferences.bundle/PullOverPr
 MD5sum: a94f7b8f5bf322ada1e8414a70880121
 SHA1: 3048c420af35662fb183f46cdf81bf3382b44925
 SHA256: d9cc7cd7282245fd0e89ae0a37c4a7f5655e3e48d9fec4e46ca2fe9cdd8c1532
-
 
 Filename: ./debs/KillAllApps.deb
 Size: 62830
@@ -127,7 +120,6 @@ MD5sum: ea43243dcf758b903efdbcf9ace5ccdd
 SHA1: 9f1e3a71621c78863ca1ac234efa3201ed136c6e
 SHA256: 75eb06c3e7e1382b21bf66e5ff2828ff2bccf594238b7b2ede389880e38f4428
 
-
 Filename: ./debs/Axon.deb
 Size: 200216
 Package: mt-jailbreak.axon
@@ -144,7 +136,6 @@ Icon: file:///Library/PreferenceBundles/AxonPrefs.bundle/icon@2x.png
 MD5sum: 06c28e18d141dc74f3253698a4f360f8
 SHA1: 7f801db018040a1400c0317f26fcd553e35c50be
 SHA256: 3ee24eed618734ffb7fa6ad9dc5234a96cfea9c368cf596bcf5dcc6d7024fc87
-
 
 Filename: ./debs/Badgomizer.deb
 Size: 421142
@@ -163,7 +154,6 @@ MD5sum: 68b45c7ba4a6011a4e299f67355d8548
 SHA1: 05070ed1845027ac3e1fd9d58aef424f123cbf5c
 SHA256: 931c611547a3146c264261b1c487ba9799092f0cd40e9e9c0ed1d395a45567c6
 
-
 Filename: ./debs/HomeGesture.deb
 Size: 2297334
 Package: mt-jailbreak.homegesture
@@ -179,7 +169,6 @@ Icon: file:///Library/PreferenceBundles/HomeGesture.bundle/icon@2x.png
 MD5sum: bda5ea86dda5fb821a1a5789174d10ee
 SHA1: 44631962cd15e32bf0407f7eae3ee085d6bcb4ac
 SHA256: 51a4ef35805ec2e1bca467ba983b5a6e3cfedc788d481106c2d8acaa9fced772
-
 
 Filename: ./debs/Activator.deb
 Package: mt-jailbreak.libactivator
@@ -199,7 +188,6 @@ MD5sum: 3fb22b7ecbaf5a5683ed05cb85c82892
 SHA1: d7f1ea3654a083a3012a947e1a2f2306c89af74f
 SHA256: 76048e48870c1aec0e59205313e94c42657f6efb919d8353c4d54543d90fcc17
 
-
 Filename: ./debs/Lower.deb
 Size: 38888
 Package: mt-jailbreak.lower
@@ -215,7 +203,6 @@ Icon: file:///Library/PreferenceBundles/LowerSettings.bundle/Lower.png
 MD5sum: bfcfb661a3ddec15b35733d058152422
 SHA1: 43ff1abd91a676e4460058bd7a6fb44ea455609f
 SHA256: de3e7f83b3311ce1b09b03f4c0cf56a079bcde5d14eeecfa5db8f1afee6dfbb1
-
 
 Filename: ./debs/NiceBarX.deb
 Size: 3043040
@@ -234,7 +221,6 @@ Icon: file:///Library/PreferenceBundles/nicebarxbundle.bundle/icon.png
 MD5sum: 0fbd0abfa3dfe4d527b5bff10c768f3c
 SHA1: 77ec0b4c200b6370b45fadce14788122b502cf45
 SHA256: ee6ebaecaba699492b68c8e697d6ca59282014a8f6a87978bc1c62f0dfe80fe5
-
 
 Filename: ./debs/Shuffle.deb
 Size: 598996
@@ -256,7 +242,6 @@ MD5sum: f26c57973b3b81d9dc3362ab82bfb36d
 SHA1: 5a925d76b9add4df182da977c370a477fff27e1f
 SHA256: 2ae813469a35c028061a6a15d6016234d9c5b46ed029419a6d2c676366ee9d23
 
-
 Package: com.ikilledappl3.sareth
 Version: 1.17.2
 Section: Tinh chỉnh Việt hóa
@@ -276,7 +261,6 @@ Author: iKilledAppl3
 Icon: file:///Library/PreferenceBundles/Sareth.bundle/Sareth@3x.png
 Name: Sareth VH
 
-
 Package: com.matchstic.xenhtml
 Version: 4.1~release
 Architecture: iphoneos-arm
@@ -284,11 +268,11 @@ Maintainer: Minh Tuấn Repo
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
 Filename: ./debs/XenHTML.deb
-Size: 3951020
-MD5sum: 110ce21c4775e09549fafb6b928b8a7c
-SHA1: 204995797dcb6d55194ae190abe53aadd698b2d5
-SHA256: f56343f9777d4a5b60f50dd499eb8bcbae80e0d950118a37cf0cf05811d931c3
-Section: Tinh chỉnh Việt hóa 
+Size: 3951026
+MD5sum: f7d8747c66e2b93a67c1939b3b3b64bd
+SHA1: 72ca0b0f16a672ffb48a60334f12ab84335413b9
+SHA256: 75cd1f0ddfbd36b4fc0923d0942f5502935afcbf6eefa765d7ba253df836ddc0
+Section: Tinh chỉnh Việt hoá
 Priority: optional
 Description: Thêm tiện ích lên Màn hình chính & Màn hình khoá
 Author: Matt Clarke
