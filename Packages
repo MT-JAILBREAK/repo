@@ -162,14 +162,16 @@ Maintainer: Minh Tuấn Repo
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker, org.thebigboss.libcolorpicker
 Filename: debs/HomeGesture.deb
 Size: 2297316
-MD5sum: bfa75ca5f00d770d60a439e1433026eb
-SHA1: f7737d151cefd26057e42edeec9703b40b745541
-SHA256: 85cbe8ac291bfddeec37380616b7f4d7b78614eb0708a50427ea28def7c1ef64
-Section: Tinh chinh Việt hoá
+MD5sum: 0136ecce843d5a315fad364a51639fd5
+SHA1: b050aa2ab7ff820dfce1e79967ca53b34b49eeab
+SHA256: 76b68e5bcec2a67372e4678507cc7d376a2332e3279428e18938e54354ff7744
+Section: Tinh chỉnh Việt hoá
 Description: Cử chỉ iPhone X cho thiết bị đời thấp
 Author: VitaTaf/MidnightChips/PINPAL
 Icon: https:///Library/PreferenceBundles/HomeGesture.bundle/icon@2x.png
 Name: HomeGesture VH
+
+
 
 Package: mt-jailbreak.homeplus
 Version: 1.0
