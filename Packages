@@ -287,14 +287,14 @@ Architecture: iphoneos-arm
 Maintainer: Minh Tuấn Repo
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker, org.thebigboss.libcolorpicker
 Filename: debs/HomeGesture.deb
-Size: 2297302
-MD5sum: 9ea7bf51693ef3f0fd5ae20284a142b1
-SHA1: ef8d14e35ff9eec8df067ee129c5614122556dd2
-SHA256: dc662982017ea49504a3b7bb0a5469215662a74baa2c19396c3550cc1eff98d5
+Size: 2297300
+MD5sum: c8864c8fc79a943ccb6affedd224e2c0
+SHA1: a2bcbdf890aba8018e02096824c591340ec0658e
+SHA256: 9d2211fdbb01ed611100d7d5dc5cff7a87ac9ef8263709503d05a8757346e5d9
 Section: Tinh chỉnh Việt hoá
 Description: Cử chỉ iPhone X cho thiết bị đời thấp
 Author: VitaTaf
-Icon: https:///Library/PreferenceBundles/HomeGesture.bundle/icon@3x.png
+Icon: file:///Library/PreferenceBundles/HomeGesture.bundle/icon@3x.png
 Name: HomeGesture VH
 
 Package: mt-jailbreak.lower
