@@ -155,24 +155,6 @@ Author: julioverne
 Icon: file:///Applications/Cydia.app/Sections/tienich.png
 Name: CrackTool4 (iOS 9 - 14)
 
-Package: mt-jailbreak.homegesture
-Version: 2.1.4
-Architecture: iphoneos-arm
-Maintainer: Minh Tuấn Repo
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker, org.thebigboss.libcolorpicker
-Filename: debs/HomeGesture.deb
-Size: 2297316
-MD5sum: 0136ecce843d5a315fad364a51639fd5
-SHA1: b050aa2ab7ff820dfce1e79967ca53b34b49eeab
-SHA256: 76b68e5bcec2a67372e4678507cc7d376a2332e3279428e18938e54354ff7744
-Section: Tinh chỉnh Việt hoá
-Description: Cử chỉ iPhone X cho thiết bị đời thấp
-Author: VitaTaf/MidnightChips/PINPAL
-Icon: https:///Library/PreferenceBundles/HomeGesture.bundle/icon@2x.png
-Name: HomeGesture VH
-
-
-
 Package: mt-jailbreak.homeplus
 Version: 1.0
 Architecture: iphoneos-arm
@@ -226,22 +208,6 @@ Dev: rpetrich
 Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
 Name: Activator VH
 
-Package: mt-jailbreak.lower
-Version: 1.6
-Architecture: iphoneos-arm
-Maintainer: Minh Tuấn Repo
-Depends: mobilesubstrate, firmware (>=11.0)
-Filename: debs/Lower.deb
-Size: 38856
-MD5sum: 278fc01facb481b93c61d66c1f78d5b0
-SHA1: e8b29ec30925e66add0bb04eb430b385b2172d3d
-SHA256: 5ba102b615cbe86acbf3eaee5bfd78f433e64ad94cd1bb5cb1ed61a62d617473
-Section: Tinh chỉnh Việt hoá
-Description: Thay đổi chiều cao thông báo và trình phát nhạc.
-Author: s1ris
-Icon: file:///Library/PreferenceBundles/LowerSettings.bundle/icon.png
-Name: Lower
-
 Package: mt-jailbreak.nicebarx
 Version: 3.1
 Architecture: iphoneos-arm
@@ -275,7 +241,7 @@ Homepage: mt-jailbreak.github.io/repo
 Description: Chọn các trạng thái thiết bị bổ xung công suất thấp
 Tag: purpose::extension
 Icon: file:///Library/PreferenceBundles/PowercuffPref.bundle/Powercuff@3x.png
-Name: PơerCuff VH
+Name: PowerCuff VH
 
 Package: mt-jailbreak.prysm
 Version: 1.9.1
@@ -314,4 +280,36 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
 Name: Shuffle VH
 Tags: compatible_min::ios10, compatible_max::ios15
+
+Package: mt-jailbreak.homegesture
+Version: 2.1.4
+Architecture: iphoneos-arm
+Maintainer: Minh Tuấn Repo
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker, org.thebigboss.libcolorpicker
+Filename: debs/HomeGesture.deb
+Size: 2297302
+MD5sum: 9ea7bf51693ef3f0fd5ae20284a142b1
+SHA1: ef8d14e35ff9eec8df067ee129c5614122556dd2
+SHA256: dc662982017ea49504a3b7bb0a5469215662a74baa2c19396c3550cc1eff98d5
+Section: Tinh chỉnh Việt hoá
+Description: Cử chỉ iPhone X cho thiết bị đời thấp
+Author: VitaTaf
+Icon: https:///Library/PreferenceBundles/HomeGesture.bundle/icon@3x.png
+Name: HomeGesture VH
+
+Package: mt-jailbreak.lower
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Minh Tuấn Repo
+Depends: mobilesubstrate, firmware (>=11.0)
+Filename: debs/Lower.deb
+Size: 38858
+MD5sum: bb4670abe8c8e7435987b4771de3528a
+SHA1: 579a66046a9839d4f4e3475f630b1c22359be90b
+SHA256: 26c5598ab7465d70c4fb1bcd4d6ca594d54e116da99199bcc61e2f00e52fecc7
+Section: Tinh chỉnh Việt hoá
+Description: Thay đổi chiều cao thông báo và trình phát nhạc.
+Author: s1ris
+Icon: file:///Library/PreferenceBundles/LowerSettings.bundle/Lower@3x.png
+Name: Lower
 
