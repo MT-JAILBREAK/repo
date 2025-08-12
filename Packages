@@ -17,25 +17,6 @@ Author: iKilledAppl3
 Icon: file:///Library/PreferenceBundles/Sareth.bundle/Sareth@3x.png
 Name: Sareth VH
 
-Package: com.matchstic.xenhtml
-Version: 4.1~release
-Architecture: iphoneos-arm
-Maintainer: Minh Tuấn Repo
-Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
-Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
-Filename: debs/XenHTML.deb
-Size: 3950306
-MD5sum: 050db6d484db41b8d4492bdd4250871c
-SHA1: d1f81c5a8ecccceb3ff4aee98fbd16663d1689ca
-SHA256: b2e9f41423f68537d5664771ffb792e6412950c1d22c1704d867f77228cf6d7c
-Section: Tinh chỉnh Việt hoá
-Priority: optional
-Description: Thêm tiện ích lên Màn hình chính & Màn hình khoá
-Author: Matt Clarke
-Dev: Matt Clarke
-Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@3x.png
-Name: XenHTML VH
-
 Package: mt-jailbreak.cydownvn
 Version: 7.1.2
 Architecture: iphoneos-arm
@@ -313,29 +294,6 @@ Author: s1ris
 Icon: file:///Library/PreferenceBundles/LowerSettings.bundle/Lower@3x.png
 Name: Lower
 
-Package: mt-jailbreak.SnowBoard
-Version: 1.4.20~Beta5
-Architecture: iphoneos-arm
-Maintainer: Hoàng Đình Phong
-Depends: mobilesubstrate, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: debs/SnowBoard.deb
-Size: 5652006
-MD5sum: 20a5a0caa8970388e25073e0cde70e1e
-SHA1: d90ef5557cd4b363b9ddff0d4b6d751712ef8dab
-SHA256: ebc7273da671f74e0173bbb741eb393ee005a7de904fdda17915e73cb3e821eb
-Section: Tinh chỉnh Việt hoá
-Homepage: https://mt-jailbreak.github.io/repo
-Description: Thay thế chủ đề theo ý bạn
-Tag: role::enduser
-Author: Spark
-Icon: file:///Library/PreferenceBundles/SnowboardPrefs.bundle/icon@3x.png
-Name: SnowBoard VH
-Someotherentrytocontrol: True
-Tags: compatible_min::ios7.0, compatible_max::ios14.8.1
-
 Package: mt-jailbreak.spotlightless11
 Version: 1.1.7
 Architecture: iphoneos-arm
@@ -372,4 +330,47 @@ Description: Quản lý gói Cydia bằng cử chỉ vuốt
 Author: PoomSmart
 Icon: file:///Library/PreferenceLoader/Preferences/SwipeForMore/SFM@3x.png
 Name: SwipeForMore VH
+
+Package: com.matchstic.xenhtml
+Version: 4.1~release
+Architecture: iphoneos-arm
+Maintainer: Minh Tuấn Repo
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
+Filename: debs/XenHTML.deb
+Size: 3776264
+MD5sum: eb49d92f0d78a503978ab31ecd106d07
+SHA1: 405c1aa7aa09ec6385de90dc069b00a8c92b1ee7
+SHA256: ef40f0660d5b7661b16dee67c7cb960b79b012204f1ca1b1550513159170fa0a
+Section: Tinh chỉnh Việt hoá
+Priority: optional
+Description: Thêm tiện ích lên Màn hình chính & Màn hình khoá
+Author: Matt Clarke
+Dev: Matt Clarke
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@3x.png
+Name: XenHTML VH
+
+Package: mt-jailbreak.SnowBoard
+Version: 1.4.20~Beta5
+Architecture: iphoneos-arm
+Maintainer: Minh Tuấn Repo
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: debs/SnowBoard.deb
+Size: 3814850
+MD5sum: a56148b3b7e23284a766bab48acc0ae4
+SHA1: eba06979b4e1a7888c294f9dd9bde9ab3ca2b5a7
+SHA256: df6875cfda68a74d3674d53c89e56258a7b072483bcf55c5161db97b193f4b23
+Section: Tinh chỉnh Việt hoá
+Homepage: https://mt-jailbreak.github.io/repo
+Description: Thay thế chủ đề theo ý bạn
+Tag: role::enduser
+Author: Spark
+Icon: file:///Library/PreferenceBundles/SnowboardPrefs.bundle/icon@3x.png
+Name: SnowBoard VH
+Someotherentrytocontrol: True
+Tags: compatible_min::ios7.0, compatible_max::ios14.8.1
+
 
