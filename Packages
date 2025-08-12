@@ -278,22 +278,6 @@ Author: VitaTaf
 Icon: file:///Library/PreferenceBundles/HomeGesture.bundle/icon@3x.png
 Name: HomeGesture VH
 
-Package: mt-jailbreak.lower
-Version: 1.6
-Architecture: iphoneos-arm
-Maintainer: Minh Tuấn Repo
-Depends: mobilesubstrate, firmware (>=11.0)
-Filename: debs/Lower.deb
-Size: 38858
-MD5sum: bb4670abe8c8e7435987b4771de3528a
-SHA1: 579a66046a9839d4f4e3475f630b1c22359be90b
-SHA256: 26c5598ab7465d70c4fb1bcd4d6ca594d54e116da99199bcc61e2f00e52fecc7
-Section: Tinh chỉnh Việt hoá
-Description: Thay đổi chiều cao thông báo và trình phát nhạc.
-Author: s1ris
-Icon: file:///Library/PreferenceBundles/LowerSettings.bundle/Lower@3x.png
-Name: Lower
-
 Package: mt-jailbreak.spotlightless11
 Version: 1.1.7
 Architecture: iphoneos-arm
@@ -372,5 +356,37 @@ Icon: file:///Library/PreferenceBundles/SnowboardPrefs.bundle/icon@3x.png
 Name: SnowBoard VH
 Someotherentrytocontrol: True
 Tags: compatible_min::ios7.0, compatible_max::ios14.8.1
+
+Package: mt-jailbreak.keyboardplus
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Minh Tuấn Repo
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: debs/KeyboardPlus.deb
+Size: 429708
+MD5sum: 501d4fd73a667043c39a809617ca296d
+SHA1: 10200bed8fa1d3e37842e9096180ae541eb0fe4b
+SHA256: 51bde66a7fe0629d2ec99d66d013aa0d97ac1427bd86b61fa8803575071218fb
+Section: Tinh chỉnh Việt hoá
+Description: Bổ sung các tính năng cho bàn phím của bạn!
+Author: Ryan Nair
+Icon: file:///Library/PreferenceBundles/KeyboardPlus.bundle/icon@2x.png
+Name: KeyboardPlus VH
+
+Package: mt-jailbreak.lower
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Minh Tuấn Repo
+Depends: mobilesubstrate, firmware (>=11.0)
+Filename: debs/Lower.deb
+Size: 38860
+MD5sum: 77454f7b62bd59c929b49f407b3eb842
+SHA1: 78e872a15943bb28b7936395a3326058fa8584aa
+SHA256: 6c000b6f1f5a483d447adb663b84daddefceb58c5af95e385c0c3d2c1f399d44
+Section: Tinh chỉnh Việt hoá
+Description: Thay đổi chiều cao thông báo và trình phát nhạc.
+Author: s1ris
+Icon: file:///Library/PreferenceBundles/LowerSettings.bundle/Lower@3x.png
+Name: Lower VH
 
 
