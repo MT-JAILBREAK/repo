@@ -313,3 +313,63 @@ Author: s1ris
 Icon: file:///Library/PreferenceBundles/LowerSettings.bundle/Lower@3x.png
 Name: Lower
 
+Package: mt-jailbreak.SnowBoard
+Version: 1.4.20~Beta5
+Architecture: iphoneos-arm
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: debs/SnowBoard.deb
+Size: 5652006
+MD5sum: 20a5a0caa8970388e25073e0cde70e1e
+SHA1: d90ef5557cd4b363b9ddff0d4b6d751712ef8dab
+SHA256: ebc7273da671f74e0173bbb741eb393ee005a7de904fdda17915e73cb3e821eb
+Section: Tinh chỉnh Việt hoá
+Homepage: https://mt-jailbreak.github.io/repo
+Description: Thay thế chủ đề theo ý bạn
+Tag: role::enduser
+Author: Spark
+Icon: file:///Library/PreferenceBundles/SnowboardPrefs.bundle/icon@3x.png
+Name: SnowBoard VH
+Someotherentrytocontrol: True
+Tags: compatible_min::ios7.0, compatible_max::ios14.8.1
+
+Package: mt-jailbreak.spotlightless11
+Version: 1.1.7
+Architecture: iphoneos-arm
+Maintainer: Minh Tuấn Repo
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Filename: debs/Spotlightless11.deb
+Size: 82574
+MD5sum: e569616471effeed8e2a207f8f38e7a0
+SHA1: 7fe0a51c5a651ed883ac9fba7787f77017523ac8
+SHA256: f635df8b523dd5259828fe8564805f124e01528ecc06c57733aea35136aaa9de
+Section: Tinh chỉnh Việt hoá
+Priority: optional
+Homepage: http://mt-jailbreak.github.io/repo
+Description: Loại bỏ Spotlight trên iOS 10 đến 16!
+Tag: purpose::extension
+Author: CydiaGeek
+Dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/Spotlightless11.bundle/Spotlightless11@2x.png
+Name: Spotlightless11 VH
+
+Package: mt-jailbreak.swipeformore
+Version: 1.1.11
+Architecture: iphoneos-arm
+Maintainer: Minh Tuấn Repo
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Filename: debs/SwipeForMore.deb
+Size: 34412
+MD5sum: e0fdfb5ac981be265017f8a6a3ac6dcc
+SHA1: 3b4f11399453e84c85008a0577d0f68903d93705
+SHA256: 4d418f59e0baa65cadf500fbf8eb17bd8125fd6c189b2379bcdb123811600085
+Section: Tinh chỉnh Việt hoá
+Homepage: https://mt-jailbreak.githud.io/repo
+Description: Quản lý gói Cydia bằng cử chỉ vuốt
+Author: PoomSmart
+Icon: file:///Library/PreferenceLoader/Preferences/SwipeForMore/SFM@3x.png
+Name: SwipeForMore VH
+
