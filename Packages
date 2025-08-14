@@ -123,12 +123,11 @@ Version: 4.1
 Architecture: iphoneos-arm
 Maintainer: Minh Tuấn Repo
 Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
-Conflicts: com.julioverne.cracktool4
 Filename: debs/CrackTool4.deb
-Size: 2957330
-MD5sum: 2c509dcab88d3d0ba1f63b285ca7b71b
-SHA1: 1ca62b9c10941a9318a1b3d575270136e8a2c841
-SHA256: e8b429a88e0546b36b262639bd6d4e896200153dbd0350304598cf3bc80ec071
+Size: 2957312
+MD5sum: 62d2d64ccece45e587da7d0a7a59d78a
+SHA1: a19be97393c6d38aae7764bed66ca20b92f1dfe8
+SHA256: 0588e8e19ab20449663b80d9cba6d37319f40a145263d9e2fb220075e6584f67
 Section: Utilities
 Description: Trình kích hoạt bản quyền!
 Author: julioverne
