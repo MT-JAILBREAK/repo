@@ -118,7 +118,7 @@ Author: Muirey03
 Icon: file:///Library/PreferenceBundles/Centaur.bundle/Icon@2x.png
 Name: Centaur VH
 
-Filename: ./debs/Cracktool4.deb
+Filename: debs/Cracktool4.deb
 Size: 2957364
 Package: mt-jailbreak.cracktool4
 Version: 4.1
