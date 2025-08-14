@@ -125,16 +125,32 @@ Maintainer: Minh Tuấn Repo
 Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
 Conflicts: com.julioverne.cracktool4
 Filename: debs/CrackTool4.deb
-Size: 2957370
-MD5sum: 4827b3ebd62074d8ebb8f97a0234605b
-SHA1: 010fe106182ce7671426351728c6de36cfa93206
-SHA256: 7e2e394c1c653ce174debef2875d782dc630d6a3ab55294f1ddb69d463560b8d
+Size: 2957348
+MD5sum: 4d1c043180ba19a59b9be8246fd97309
+SHA1: 3f8853652900abf53a5dd05becd69253e94f7c4d
+SHA256: 48546e7876510927d63c96d14c96e788e40b3fe9ea73045ad90519777065b052
 Section: Tweaks
-Homepage: https://julio.hackyouriphone.org/description.html?id=com.julioverne.cracktool4
+Homepage: https://mt-jailbreak.github.io
 Description: Trình kích hoạt bản quyền!
 Author: julioverne
-Icon: file:///Applications/Cydia.app/Sections/tienich.png
+Icon: file:///Applications/CrackTool4.app_/Icon.png
 Name: CrackTool4 (iOS 9 - 14)
+
+Package: mt-jailbreak.quart
+Version: 1.4.6.1
+Architecture: iphoneos-arm
+Maintainer: Minh Tuấn Repo
+Depends: mobilesubstrate, com.laughingquoll.prefixui
+Filename: debs/Quart.deb
+Size: 1162076
+MD5sum: 91d9e878927817d5136af3244ae47053
+SHA1: 1f7a0147325d3af1c4d829ac6992cb7d32b67588
+SHA256: 12927cc4b6a96413b9dd928fe6def52a93428d5ddea5e902ac6779bc04a8bea1
+Section: Tinh chỉnh Việt hoá
+Description: Thiết kế lại biểu ngữ thông báo của bạn!
+Author: LaughingQuoll
+Icon: file:///Library/PreferenceBundles/QuartPrefs.bundle/icon@3x.png
+Name: Quart VH
 
 Package: mt-jailbreak.homeplus
 Version: 1.0
