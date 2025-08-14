@@ -118,21 +118,23 @@ Author: Muirey03
 Icon: file:///Library/PreferenceBundles/Centaur.bundle/Icon@2x.png
 Name: Centaur VH
 
+Filename: ./debs/Cracktool4.deb
+Size: 2957364
 Package: mt-jailbreak.cracktool4
 Version: 4.1
-Architecture: iphoneos-arm
+Section: Tweaks
 Maintainer: Minh Tuấn Repo
-Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
-Filename: debs/CrackTool4.deb
-Size: 2957312
-MD5sum: 62d2d64ccece45e587da7d0a7a59d78a
-SHA1: a19be97393c6d38aae7764bed66ca20b92f1dfe8
-SHA256: 0588e8e19ab20449663b80d9cba6d37319f40a145263d9e2fb220075e6584f67
-Section: Utilities
+Homepage: https://julio.hackyouriphone.org/description.html?id=com.julioverne.cracktool4
 Description: Trình kích hoạt bản quyền!
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Conflicts: com.julioverne.cracktool4
+Architecture: iphoneos-arm
+Name: CrackTool4 (iOS 9 - 14)
 Author: julioverne
 Icon: file:///Applications/CrackTool4.app_/Icon.png
-Name: CrackTool4 (iOS 9 - 14)
+MD5sum: 439dca67cafed3329e0617d437a01fc1
+SHA1: 0114a2adacc4159dbd62437eeee2e2900a9d144c
+SHA256: a2d5de9425ceb395572dc2d7da6c2f336cd46c1cdd29b41f62861bacf0588d5d
 
 Package: mt-jailbreak.quart
 Version: 1.4.6.1
