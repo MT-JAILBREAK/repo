@@ -124,7 +124,7 @@ Architecture: iphoneos-arm
 Maintainer: Minh Tuấn Repo
 Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
 Conflicts: com.julioverne.cracktool4
-Filename: ./debs/CrackTool4.deb
+Filename: debs/CrackTool4.deb
 Size: 2957370
 MD5sum: 4827b3ebd62074d8ebb8f97a0234605b
 SHA1: 010fe106182ce7671426351728c6de36cfa93206
