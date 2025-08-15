@@ -314,23 +314,6 @@ Dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/Spotlightless11.bundle/Spotlightless11@2x.png
 Name: Spotlightless11 VH
 
-Package: mt-jailbreak.swipeformore
-Version: 1.1.11
-Architecture: iphoneos-arm
-Maintainer: Minh Tuấn Repo
-Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
-Filename: debs/SwipeForMore.deb
-Size: 34412
-MD5sum: e0fdfb5ac981be265017f8a6a3ac6dcc
-SHA1: 3b4f11399453e84c85008a0577d0f68903d93705
-SHA256: 4d418f59e0baa65cadf500fbf8eb17bd8125fd6c189b2379bcdb123811600085
-Section: Tinh chỉnh Việt hoá
-Homepage: https://mt-jailbreak.githud.io/repo
-Description: Quản lý gói Cydia bằng cử chỉ vuốt
-Author: PoomSmart
-Icon: file:///Library/PreferenceLoader/Preferences/SwipeForMore/SFM@3x.png
-Name: SwipeForMore VH
-
 Package: com.matchstic.xenhtml
 Version: 4.1~release
 Architecture: iphoneos-arm
@@ -404,5 +387,59 @@ Description: Thay đổi chiều cao thông báo và trình phát nhạc.
 Author: s1ris
 Icon: file:///Library/PreferenceBundles/LowerSettings.bundle/Lower@3x.png
 Name: Lower VH
+
+Package: mt-jailbreak.swipeformore
+Version: 1.1.11
+Architecture: iphoneos-arm
+Maintainer: Minh Tuấn Repo
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Filename: debs/SwipeForMore.deb
+Size: 34332
+MD5sum: f2bd4dda041cb5146890d1e645b66781
+SHA1: 3330e1e9561f783c151f94f51d09884e75e2e8e7
+SHA256: e57e89455cb3f2caeeef4df3327db48eb4a0fe65e50c70111a8f99a3f5291d7c
+Section: Tinh chỉnh Việt hoá
+Homepage: https://mt-jailbreak.githud.io/repo
+Description: Quản lý gói Cydia bằng cử chỉ vuốt
+Author: PoomSmart
+Icon: file:///Library/PreferenceLoader/Preferences/SwipeForMore/SFM@3x.png
+Name: SwipeForMore VH
+
+Package: mt-jailbreak.willow
+Version: 1.2.14
+Architecture: iphoneos-arm
+Maintainer: Minh Tuấn Repo
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, dev.ayden.ios.tweak.lib.libdundas
+Conflicts: com.ruler225.videohud, com.spark.melior, net.midkin.smartvolumecontrol2, es.ubikstyl.sonus12, me.nepeta.brokenhud, me.nepeta.flashyhud, hi.my.name.is.ubik.sonus13, com.ikilledappl3.switchhud, com.muirey03.13hud, com.kingpuffdaddi.ringer13
+Filename: debs/UltraSound.deb
+Size: 331298
+MD5sum: 122c819c37edc72a1e6a6f91f6ee3fff
+SHA1: 81f3be7282f247bd89e7a9428f35137ac7aaa5b7
+SHA256: f6c747a7693fb7ccb80b9b4864156d7ae0908b59231b701cb502c8e1eda210fd
+Section: Tweaks
+Description: Hiển thị âm lượng hoàn toàn mới, không phô trương và thân thiện với OLED.
+Author: Ayden Panhuyzen
+Icons: file:///Library/PreferenceBundles/UltrasoundSettings.bundle/icon@3x.png
+Name: UltraSound
+
+Package: mt-jailbreak.xb-ccmodules
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Minh Tuấn Repo
+Depends: firmware (>= 11), mobilesubstrate, com.opa334.ccsupport, preferenceloader, org.thebigboss.libcolorpicker
+Filename: debs/XB-CCModules.deb
+Size: 1073024
+MD5sum: b83220e7a8ee411540b24b19f634bda7
+SHA1: be582131877fe7a554eb4e3e940843e7b05be2c2
+SHA256: 63f4201c64bde1d9935f94bf65ccd414d4c0f73c7e75f1bee9a7055d964c477b
+Section: Tinh chỉnh Việt hoá
+Priority: optional
+Homepage: mt-jailbreak.github.io/repo
+Description: Thêm cài đặt và nút chuyển đổi cho Trung tâm điều khiển
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Olivier Crespo
+Dev: olycreba
+Icon: file:///Library/PreferenceBundles/XBCCModules.bundle/XBCCModules@2x.png
+Name: XB-CCModules VH
 
 
