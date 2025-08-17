@@ -442,4 +442,24 @@ Dev: olycreba
 Icon: file:///Library/PreferenceBundles/XBCCModules.bundle/XBCCModules@2x.png
 Name: XB-CCModules VH
 
+Package: mt-jailbreak.powerselectorios11to14
+Version: 1.3.7
+Architecture: iphoneos-arm
+Maintainer: Minh Tuấn Repo
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: debs/PowerSelector.deb
+Size: 344390
+MD5sum: 0367baa32ab1bb23b5bdd2054465b47e
+SHA1: 304d0abe96dae62a69268a22160be0307bfdd920
+SHA256: e4c6bfa1433ae17cdb921599fd79d4e34c985378c7b280a6d63c77a8e9813427
+Section: Tweaks
+Description: Danh sách nguồn nâng cao cho Trung tâm điều khiển
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.3
+Author: ichitaso
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@3x.png
+Name: PowerSelector (iOS 11 to 16)
+
 
