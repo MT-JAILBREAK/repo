@@ -223,23 +223,6 @@ Author: niceios
 Icon: file:///Library/PreferenceBundles/nicebarxbundle.bundle/icon.png
 Name: NiceBarX VH
 
-Package: mt-jailbreak.powercuff
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: Minh Tuấn Repo
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.opa334.altlist
-Filename: debs/PowerCuff.deb
-Size: 34850
-MD5sum: f840aa5e812745548e64888a4f979002
-SHA1: e8cf22d9564ab97d33f550dcf2cf720047c6d603
-SHA256: abea4852732fa3bce45a6fbd971b8de05a1ebdeded2ea8662065683d37536a2f
-Section: Tinh chỉnh Việt hoá
-Homepage: mt-jailbreak.github.io/repo
-Description: Chọn các trạng thái thiết bị bổ xung công suất thấp
-Tag: purpose::extension
-Icon: file:///Library/PreferenceBundles/PowercuffPref.bundle/Powercuff@3x.png
-Name: PowerCuff VH
-
 Package: mt-jailbreak.prysm
 Version: 1.9.1
 Architecture: iphoneos-arm
@@ -461,5 +444,41 @@ Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.3
 Author: ichitaso
 Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@3x.png
 Name: PowerSelector (iOS 11 to 16)
+
+Package: mt-jailbreak.newterm2
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: Minh Tuấn Repo
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.16), bash, coreutils, ncurses, system-cmds, gettext-localizations | com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Filename: debs/NewTerm2.deb
+Size: 2996320
+MD5sum: 8579e092507f9e9714fc87e11459deab
+SHA1: cac89f002efdbc51fc74bc4eba85fbc2fa791f23
+SHA256: 9a876155c3af5244224fcd446511c95d5ecd668bada64b2c9325ca864f3ed025
+Section: Tinh chỉnh Việt hoá
+Description: Một ứng dụng đầu cuối mạnh mẽ dành cho iOS 10-14
+Tag: compatible_min::ios10.0
+Author: HASHBANG Productions
+Icon: file:///Applications/NewTerm.app/AppIcon60x60@3x.png
+Name: NewTerm 2 VH
+
+Package: mt-jailbreak.powercuff
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Minh Tuấn Repo
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.opa334.altlist
+Filename: debs/PowerCuff.deb
+Size: 34846
+MD5sum: c7c966f948de3e8726cad6323edfc049
+SHA1: d48a2bbe0a61e67dd2a8bace36614cf7e52f41b6
+SHA256: 38f177a0a1abc40a527418a046ddde9db0a734db949d02c7a256efff306f52b1
+Section: Tinh chỉnh Việt hoá
+Homepage: mt-jailbreak.github.io/repo
+Description: Chọn các trạng thái thiết bị bổ sung công suất thấp
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/PowercuffPref.bundle/Powercuff@3x.png
+Name: PowerCuff VH
 
 
