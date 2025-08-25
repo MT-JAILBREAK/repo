@@ -453,10 +453,10 @@ Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.c
 Conflicts: ws.hbang.newterm, com.lint.ntarrows
 Replaces: ws.hbang.newterm, com.lint.ntarrows
 Filename: debs/NewTerm2.deb
-Size: 2996320
-MD5sum: 8579e092507f9e9714fc87e11459deab
-SHA1: cac89f002efdbc51fc74bc4eba85fbc2fa791f23
-SHA256: 9a876155c3af5244224fcd446511c95d5ecd668bada64b2c9325ca864f3ed025
+Size: 5200654
+MD5sum: 7c7556640d5d1f48c1ae2583a39655bf
+SHA1: 674cb985bff3dd206485eeaf8a100c52c2d582a7
+SHA256: 29e1341298d198bd6ea38625b3f8ebb3324b119a409e3e3b38cf16c93813079b
 Section: Tinh chỉnh Việt hoá
 Description: Một ứng dụng đầu cuối mạnh mẽ dành cho iOS 10-14
 Tag: compatible_min::ios10.0
