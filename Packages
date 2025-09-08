@@ -193,10 +193,10 @@ Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweak
 Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
 Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
 Filename: debs/Activator.deb
-Size: 1266350
-MD5sum: 70db6f9a9e572887aade0ae45ac00c30
-SHA1: c6b67ed9ac5ca2a6050bb02f0d4229f24cef51ab
-SHA256: d0d32b390625b6ba7e8f7e2bf74020a1819dfa388cd51d7fe2a899871bb27060
+Size: 1267594
+MD5sum: 094365afffdf56ed7a1b741dffe2699d
+SHA1: ba321ad0384d6f80419a5252b269c95553c5690c
+SHA256: adb961ecf453ac02cedc866b28d2ce77780dffb9c51ba01c7c8b447f3ff0bef1
 Section: Tinh chỉnh Việt hoá
 Priority: optional
 Description: Thêm nhiều cử chỉ cho iPhone
